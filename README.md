@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Souradeep-bera
 - 👀 I’m interested in coading, html etc.
-- 🌱 I’m currently learning both of coading and html5
+- 🌱 I’m currently learning both of coading, html5, css3 also learnt JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
